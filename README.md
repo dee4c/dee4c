@@ -1,9 +1,11 @@
+
+## Stats
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielrosheuvel)](https://github.com/anuraghazra/github-readme-stats)
 
+## Langs
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=danielrosheuvel&show_icons=true&locale=en&layout=compact" alt="danielrosheuvel" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielrosheuvel&show_icons=true&locale=en&layout=compact" alt="danielrosheuvel" />
-
-## My soft
+## Tech
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
