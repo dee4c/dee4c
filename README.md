@@ -9,6 +9,7 @@
 ![image](https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white)
 ![image](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![image](https://img.shields.io/badge/Digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 
 
