@@ -1,10 +1,3 @@
-
-## Stats
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielrosheuvel)](https://github.com/anuraghazra/github-readme-stats)
-
-## Langs
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=danielrosheuvel&show_icons=true&locale=en&layout=compact" alt="danielrosheuvel" />
-
 ## Tech
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -15,6 +8,11 @@
 ![image](https://img.shields.io/badge/React-09D3AC?style=for-the-badge&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white)
 ![image](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
+
+
+
+## Stats
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielrosheuvel)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **danielrosheuvel/danielrosheuvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
